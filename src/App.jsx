@@ -21,6 +21,10 @@ const practicals = [
     title: "Practical 5: UI/UX Practical 5",
     url: "https://www.figma.com/design/cis0NOSA92odM8pD4evnv2/UI%2FUX-5?node-id=0-1&node-type=canvas&t=WXBvKkQbnjIBo51C-0",
   },
+  {
+    title: "EAC Practicals",
+    url: "https://drive.google.com/drive/folders/1i52hFGMftnu2h2VJBdTcjGaMGXYV8FjP?usp=sharing",
+  },
 ];
 
 function App() {
